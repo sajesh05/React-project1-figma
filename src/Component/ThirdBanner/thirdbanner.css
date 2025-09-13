@@ -1,0 +1,99 @@
+.flex{
+    display: flex;
+    justify-content: space-between; 
+    height: 513px;
+    background-color: black; 
+}
+.flex1{
+    height:429px ;
+    width: 394px;
+    margin:  42px 24px 42px 24px;
+    background-color: #4F4F4F;
+    gap: 42px;
+    
+}
+.flex12{
+    
+    height: 124px;
+    margin: 64px 135px 241px 135px;
+}
+.flex22{
+    color: white;
+    width: 310.67px;
+    height: 42px;
+    margin: 20px 0px 0px 5px;
+    font-size: large;
+    
+}
+.flex32{
+    color: rgba(226, 226, 226, 0.87);
+    width: 310.67px;
+    height: 42px;
+    margin: 10px 0px 0px -80px;
+    font-size:medium;
+    text-indent:10px;
+    line-height:20px ;
+    text-align: center;
+    
+}
+.flex2{
+    height:429px ;
+    width: 394.67px;
+    margin:  42px 24px 42px 0px;
+    background-color: #4F4F4F;
+    gap: 42px;
+
+}
+.flex13{
+    
+    height: 124px;
+    margin: 64px 135.33px 241px 135.33px;
+    
+}
+.flex23{
+    color: white;
+    width: 310.67px;
+    height: 42px;
+    margin: 20px 0px 0px 10px;
+    font-size: large;
+}
+.flex33{
+    color: rgba(226, 226, 226, 0.87);
+    width: 310.67px;
+    height: 42px;
+    margin: 10px 0px 0px -80px;
+    font-size:medium;
+    text-indent:10px;
+    line-height:20px ;
+    text-align: center;
+}
+.flex3{
+
+    height:429px ;
+    width: 394.67px;
+    margin:  42px 24px 42px 0;
+    background-color: #4F4F4F;
+    gap: 42px;
+}
+.flex14{
+    
+    height: 124px;
+    margin: 64px 0px 241px 135.33px;
+}
+.flex24{
+    color: white;
+    width: 310.67px;
+    height: 42px;
+    margin: 20px 0px 0px 20px;
+    font-size: large;
+}
+.flex34{
+    color: rgba(226, 226, 226, 0.87);
+    width: 310.67px;
+    height: 42px;
+    margin: 10px 0px 0px -80px;
+    font-size:medium;
+    text-indent:10px;
+    line-height:20px ;
+    text-align: center;
+}

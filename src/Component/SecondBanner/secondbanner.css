@@ -1,0 +1,32 @@
+.logo{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 130.83px;
+    
+}
+.img1{
+    width: 116.07px;
+    height: 38.21px;
+    margin: 46.31px 0 46.31px 68px;
+}
+.img2{
+    width: 86.42px;
+    height:30.74px ;
+    margin: 50.04px 0 50.04px 0;
+}
+.img3{
+    width: 113.11px;
+    height: 17.41px;
+    margin: 56.71px 0 56.71px 0;
+}
+.img4{
+    width: 38.11px;
+    height:46.83 px;
+    margin: 42px 0 42px 0px;
+}
+.img5{
+    width: 64.94px;
+    height: 43.67px;
+    margin: 43.58px 68px 43.58px 0px;
+}

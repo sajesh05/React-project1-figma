@@ -1,0 +1,58 @@
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:gray;
+    height: 444px;
+ 
+
+    
+}
+.banner-left{
+    display: flex;
+    flex-direction: column;
+    margin:58px 0px 58px 56px ;
+    width: 620px;
+    height: 328px;
+
+}
+.banner-left1{
+    color: #FFFFFF;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: 600px;
+    
+}
+.banner-left2{
+    color: #FFFFFF;
+    line-height: 100%;
+    font-size: 68px;
+    font-weight: 600px;
+    margin-top: 24px;
+    
+}
+.banner-left3{
+    color: #E6E6E6;
+    line-height: 27px;
+    font-size: 17px;
+    font-weight: 400px;
+    margin-top: 24px;
+    width: 620px;
+    height: 54px;
+    
+    
+}
+button{
+    height: 78px;
+    width: 211px;
+    margin-top: 48px;
+    color: black;
+    font-size: medium;
+    font-weight: 600px;
+    line-height: 30px;
+}
+.banner-right{
+    width: 480px;
+    height: 360px;
+    margin: 42px 56px 42px 0px;
+}

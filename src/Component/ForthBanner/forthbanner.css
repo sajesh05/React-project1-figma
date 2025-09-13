@@ -1,0 +1,100 @@
+.maingrid{
+    background-color:#4F4F4F;
+    height: 1030px;
+}
+.grid{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    margin: 42px 24px 42px 24px;
+    background-color:#4F4F4F;
+    gap: 42px;
+   
+     
+}
+.main{
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 600;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 42px;
+
+}
+.grid22{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid32{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid23{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid33{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid24{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid34{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid25{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid35{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid26{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid36{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid27{
+    color: #FFFFFF;
+    padding: 10px;
+    
+}
+.grid37{
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.grid12{
+    margin: 32px 24px 0px 24px;
+    gap: 42px;
+}
+.grid13{
+    margin: 32px 24px 0px 24px;
+    gap: 42px;
+}
+.grid14{
+    margin: 32px 24px 0px 24px;
+    gap: 42px;
+}
+.grid15{
+   margin: 0px 24px 24px 24px;
+    gap: 42px;
+}
+.grid16{
+    margin: 0px 24px 24px 24px;
+    gap: 42px;
+}
+.grid17{
+    margin: 0px 24px 24px 24px;
+    gap: 42px;
+}

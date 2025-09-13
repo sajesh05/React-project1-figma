@@ -1,0 +1,55 @@
+.testimonial{
+    background-color: black;
+    height: 950px;
+}
+
+.full{
+    background-color: black;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 42px 24px 42px 24px;
+    gap: 42px;
+}
+.box1{
+    width: 330px;
+    height: 300px;
+    padding: 42px;
+    background-color: #4F4F4F;
+    
+     
+  
+    
+}
+.grid01{
+    color:white;
+    text-align: center;
+    font-weight: 600;
+    font-style:normal;
+    font-size: 32px;
+    line-height: 42px;
+}
+.imgg{
+    display: flex;
+}
+.p1{
+    font-weight:600;
+    line-height: 30px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.imgg1{
+    width: 50px;
+    height: 50px;
+    margin: 68px 0px 42px 7px;
+}
+.fx{
+    margin: 68px 24px 42px 15px;
+}
+.h1{
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+.h2{
+    color: #FFFFFF;
+    margin-top: 7px;
+}
