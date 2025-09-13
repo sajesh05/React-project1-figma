@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Header from '../Component/header/header'
+
 import FirstBanner from '../Component/FirstBanner/firstbanner'
 import SecondBanner from '../Component/SecondBanner/secondbanner'
 import ThirdBanner from '../Component/ThirdBanner/thirdbanner'

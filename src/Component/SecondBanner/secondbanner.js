@@ -21,22 +21,22 @@ function secondbanner() {
     name:secondBanner5
   },]
   return (
-   <div class="logo">
+   <div className="logo">
 
     {
       nav.map((i) =>(
-               <div class="img1"><img src={i.name}/></div>
+               <div className="img1"><img src={i.name} alt='banner1'/></div>
 
 
             ))
     }
 
 
-        {/* <div class="img1"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\Group 5334 (3).png"/></div>
-        <div class="img2"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 1 (Traced) (3).png"/></div>
-        <div class="img3"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 5 (Traced) (1).png"/></div>
-        <div class="img4"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 2 (Traced) (1).png"/></div>
-        <div class="img5"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 7 (Traced) (1).png"/></div> */}
+        {/* <div className="img1"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\Group 5334 (3).png"/></div>
+        <div className="img2"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 1 (Traced) (3).png"/></div>
+        <div className="img3"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 5 (Traced) (1).png"/></div>
+        <div className="img4"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 2 (Traced) (1).png"/></div>
+        <div className="img5"><img src="C:\Users\USER\Desktop\hari\figma-html-css\images\image 7 (Traced) (1).png"/></div> */}
     </div>
   )
 }

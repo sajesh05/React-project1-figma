@@ -34,58 +34,58 @@ function forthbanner() {
         name2:"UI,Art Direction"
     },]
   return (
-   <div class="maingrid">
+   <div className="maingrid">
 
-        <div class="main"><span>Letest Work</span></div>
+        <div className="main"><span>Letest Work</span></div>
 
-        <div class="grid">
+        <div className="grid">
 
              {
         nav.map((i) =>(
             
-               <div class="grid12"><img src={i.name} />
-            <div class="grid22"><span>{i.name1}</span></div>
-            <div class="grid32">{i.name2}</div></div>
+               <div className="grid12"><img src={i.name} alt='banner9'/>
+            <div className="grid22"><span>{i.name1}</span></div>
+            <div className="grid32">{i.name2}</div></div>
 
 
             ))
     }
             
-        {/* <div class="grid12"><img src="./images/Image (1).png"/>
-        <div class="grid22">Project title</div>
-        <div class="grid32">UI,Art Direction</div> 
+        {/* <div className="grid12"><img src="./images/Image (1).png"/>
+        <div className="grid22">Project title</div>
+        <div className="grid32">UI,Art Direction</div> 
     </div>
 
      
-        <div class="grid13"><img src="./images/Image (2).png"/>
-        <div class="grid23">Project title</div>
-        <div class="grid33">UI,Art Direction</div>
+        <div className="grid13"><img src="./images/Image (2).png"/>
+        <div className="grid23">Project title</div>
+        <div className="grid33">UI,Art Direction</div>
     </div>
 
      
-        <div class="grid14"><img src="./images/Image (3).png"/>
-        <div class="grid24">Project title</div>
-        <div class="grid34">UI,Art Direction</div>
+        <div className="grid14"><img src="./images/Image (3).png"/>
+        <div className="grid24">Project title</div>
+        <div className="grid34">UI,Art Direction</div>
 </div>
 
     
-        <div class="grid15"><img src="./images/Image (4).png"/>
-        <div class="grid25">Project title</div>
-        <div class="grid35">UI,Art Direction</div>
+        <div className="grid15"><img src="./images/Image (4).png"/>
+        <div className="grid25">Project title</div>
+        <div className="grid35">UI,Art Direction</div>
  </div>
 
      
-        <div class="grid16"><img src="./images/Image (5).png"/>
-        <div class="grid26">Project title</div>
-        <div class="grid36">UI,Art Direction</div>
+        <div className="grid16"><img src="./images/Image (5).png"/>
+        <div className="grid26">Project title</div>
+        <div className="grid36">UI,Art Direction</div>
         
 
     </div>
 
     
-        <div class="grid17"><img src="./images/Image (6).png"/>
-        <div class="grid27">Project title</div>
-        <div class="grid37">UI,Art Direction</div> 
+        <div className="grid17"><img src="./images/Image (6).png"/>
+        <div className="grid27">Project title</div>
+        <div className="grid37">UI,Art Direction</div> 
         
     </div> */}
 
